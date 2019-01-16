@@ -1,0 +1,6 @@
+C:\_haskell\Problem24\Problem24\bin\Debug\Problem24.exe
+C:\_haskell\Problem24\Problem24\bin\Debug\Problem24.pdb
+C:\_haskell\Problem24\Problem24\obj\x86\Debug\Problem24.exe
+C:\_haskell\Problem24\Problem24\obj\x86\Debug\Problem24.pdb
+C:\Users\Cookie\Dropbox\Programming Seminar\Euler\Cookie\Problem24\Problem24\obj\x86\Debug\Problem24.exe
+C:\Users\Cookie\Dropbox\Programming Seminar\Euler\Cookie\Problem24\Problem24\obj\x86\Debug\Problem24.pdb

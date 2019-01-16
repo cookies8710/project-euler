@@ -1,0 +1,4 @@
+C:\Users\cookies\Dropbox\Programming Seminar\Euler\Cookie\Problem26\Problem26\Problem26\bin\Debug\Problem26.exe
+C:\Users\cookies\Dropbox\Programming Seminar\Euler\Cookie\Problem26\Problem26\Problem26\bin\Debug\Problem26.pdb
+C:\Users\cookies\Dropbox\Programming Seminar\Euler\Cookie\Problem26\Problem26\Problem26\obj\x86\Debug\Problem26.exe
+C:\Users\cookies\Dropbox\Programming Seminar\Euler\Cookie\Problem26\Problem26\Problem26\obj\x86\Debug\Problem26.pdb
